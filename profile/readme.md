@@ -8,11 +8,13 @@ Hi guys, we are **D-EDGE**. We are a the European #1 and World #3 hotel distribu
 We combine the technical excellence of Availpro and the digital marketing expertise of Fastbooking, two of the largest independent hotel marketing technology companies.  
 Contact us if you have anything to share or some questions!
 
+<!--
 ## 👋 Come to our next meetup
 
 We've all experienced SCRUM, shifting from excitement to hatred and back.
 Let's hear what [@torendil](https://github.com/torendil) have to share on this during his talk "SCRUM is NOT a project management tool"
 Join [@torendil](https://github.com/torendil) on Tuesday, October 19 at 6:30 PM for our next [meetup](https://www.meetup.com/D-EDGE-tech) to discuss this vision of SCRUM.
+-->
 
 ## 📫 Contact Us on Social Media
 
