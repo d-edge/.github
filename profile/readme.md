@@ -5,8 +5,10 @@
 [![status](https://img.shields.io/badge/status-hiring-brightgreen)](https://github.com/d-edge/joinus/)
 [![ask](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://github.com/d-edge/joinus/issues/)
 
-Hi guys, we are **D-EDGE**. We are a the European #1 and World #3 hotel distribution technology provider in hospitality.
-We combine the technical excellence of Availpro and the digital marketing expertise of Fastbooking, two of the largest independent hotel marketing technology companies.  
+Have you ever booked a hotel online? Then you've probably used D-EDGE without knowing it. Every day, we help more than 12,000 hotels worldwide to develop their online visibility and sales through a range of SaaS and digital marketing solutions.
+
+Amongst the 350 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
+
 Contact us if you have anything to share or some questions!
 
 <!--
