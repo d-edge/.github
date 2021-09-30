@@ -5,7 +5,7 @@
 [![status](https://img.shields.io/badge/status-hiring-brightgreen)](https://github.com/d-edge/joinus/)
 [![ask](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://github.com/d-edge/joinus/issues/)
 
-Hi guys, we are **D-EDGE**. We are a the European #1 and World #3 hotel distribution technology provider in hospitality.
+Hi folks, we are **D-EDGE**. We are a the European #1 and World #3 hotel distribution technology provider in hospitality.
 We combine the technical excellence of Availpro and the digital marketing expertise of Fastbooking, two of the largest independent hotel marketing technology companies.  
 Contact us if you have anything to share or some questions!
 
