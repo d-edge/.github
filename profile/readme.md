@@ -23,18 +23,15 @@ Join [@torendil](https://github.com/torendil) on Tuesday, October 19 at 6:30 PM 
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
+[![Welcome to the Jungle](https://img.shields.io/badge/Welcome%20to%20the%20Jungle-FFCD00?style=for-the-badge&logo=wttj&logoColor=black)][wj]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][yt]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]
-[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][fb]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]  
+[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]  
 or write us by ✉️ [email](mailto:softwarecraft@d-edge.com) or through an 💬 [issue](https://github.com/d-edge/joinus/issues/) if you want to!
 
-
-[fb]: https://www.facebook.com/D.EDGE.Hospitality.Solutions/
+[wj]: https://www.welcometothejungle.com/en/companies/d-edge
 [tw]: https://twitter.com/D_EDGE_Hosp
 [yt]: https://www.youtube.com/channel/UC2wG3a8rYx5re8RdB-2FQ9A
 [lk]: https://www.linkedin.com/company/d-edge-hospitality-solutions/
-[ig]: https://www.instagram.com/d_edge_hospitality/
 [mt]: https://www.meetup.com/D-EDGE-tech 
