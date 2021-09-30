@@ -24,10 +24,10 @@ Join [@torendil](https://github.com/torendil) on Tuesday, October 19 at 6:30 PM 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 [![Welcome to the Jungle](https://img.shields.io/badge/Welcome%20to%20the%20Jungle-FFCD00?style=for-the-badge&logo=wttj&logoColor=black)][wj]
+[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][yt]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]
-[![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]  
 or write us by ✉️ [email](mailto:softwarecraft@d-edge.com) or through an 💬 [issue](https://github.com/d-edge/joinus/issues/) if you want to!
 
 [wj]: https://www.welcometothejungle.com/en/companies/d-edge
