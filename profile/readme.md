@@ -13,11 +13,8 @@ Contact us if you have anything to share or some questions!
 
 ## 👋 Come to our next meetup
 
-
-> Scrum is now one of the most well-known project management tools. But what if I told you Scrum is not a project management tool, but rather a framework obsessed with one thing: delivering more value to you or your customers? How would that change your daily life with dreary daily and painful sprint plannings? This talk is for everybody that has to work with Scrum, but may especially be useful for those having actual (and probably painful) experience with it without knowing exactly what it's made of.
-
-Join [@torendil](https://github.com/torendil) on Tuesday, October 19 at 6:30 PM (Paris Time) for our next [meetup](https://www.meetup.com/D-EDGE-tech/events/281199458/) to discuss this vision of Scrum.
-
+Wath the replay of "SCRUM is a product management framework (and not a project management tool)" on [YouTube](https://www.youtube.com/watch?v=s1rLEOBhS_4).  
+The next one will be announced soon.
 
 ## 📫 Contact Us on Social Media
 
