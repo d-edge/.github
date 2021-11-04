@@ -18,7 +18,7 @@ Tons of online resources are available to use the tools individually.
 
 But how to make them work together?
 
-In the next D-EDGE Tech Meetup, David will show how to get the most out of these tools together with a concrete example from his daily work.
+In the next D-EDGE Tech Meetup, [@divad4686](https://github.com/divad4686/) will show how to get the most out of these tools together with a concrete example from his daily work.
 All developers are welcome (junior and senior), mainly back-end developers.
 
 [Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/281841070/)
