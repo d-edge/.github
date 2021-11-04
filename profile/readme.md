@@ -1,6 +1,6 @@
 ##  Welcome!
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 [![status](https://img.shields.io/badge/status-hiring-brightgreen)](https://github.com/d-edge/joinus/)
 [![ask](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://github.com/d-edge/joinus/issues/)
@@ -13,8 +13,15 @@ Contact us if you have anything to share or some questions!
 
 ## 👋 Come to our next meetup
 
-Wath the replay of "SCRUM is a product management framework (and not a project management tool)" on [YouTube](https://www.youtube.com/watch?v=s1rLEOBhS_4).  
-The next one will be announced soon.
+Docker, docker-compose, CI/CD, Kubernetes are some of the new tools and concepts popular in back-end development these days.
+Tons of online resources are available to use the tools individually.
+
+But how to make them work together?
+
+In the next D-EDGE Tech Meetup, David will show how to get the most out of these tools together with a concrete example from his daily work.
+All developers are welcome (junior and senior), mainly back-end developers.
+
+[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/281841070/)
 
 ## 📫 Contact Us on Social Media
 
