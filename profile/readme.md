@@ -10,7 +10,7 @@ Have you ever booked a hotel online? Then you've probably used D-EDGE without kn
 Amongst the 350 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
 
 Contact us if you have anything to share or some questions!
-
+<!--
 ## 👋 Come to our next meetup
 
 Docker, docker-compose, CI/CD, Kubernetes are some of the new tools and concepts popular in back-end development these days.
@@ -22,7 +22,7 @@ In the next D-EDGE Tech Meetup, [@divad4686](https://github.com/divad4686/) will
 All developers are welcome (junior and senior), mainly back-end developers.
 
 [Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/281841070/)
-
+-->
 ## 📫 Contact Us on Social Media
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
