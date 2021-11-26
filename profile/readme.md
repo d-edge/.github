@@ -10,19 +10,13 @@ Have you ever booked a hotel online? Then you've probably used D-EDGE without kn
 Amongst the 350 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
 
 Contact us if you have anything to share or some questions!
-<!--
-## 👋 Come to our next meetup
 
-Docker, docker-compose, CI/CD, Kubernetes are some of the new tools and concepts popular in back-end development these days.
-Tons of online resources are available to use the tools individually.
+## 👋 Come to our next meetup (an open discussion in French)
 
-But how to make them work together?
+D-EDGE is organizing an internal Hackathon on the subject of Gamification. As this is far from our day-to-day activity and the pitfalls are many, we decided to open the discussion at a Meetup. Join [@torendil](https://github.com/torendil), [@aumeunier](https://github.com/aumeunier), [@el-sime](https://github.com/el-sime) and [aloisdg](https://github.com/aloisdg/) for an open table on this sensitive topic!
 
-In the next D-EDGE Tech Meetup, [@divad4686](https://github.com/divad4686/) will show how to get the most out of these tools together with a concrete example from his daily work.
-All developers are welcome (junior and senior), mainly back-end developers.
+[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/282324510/)
 
-[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/281841070/)
--->
 ## 📫 Contact Us on Social Media
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
