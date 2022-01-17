@@ -25,7 +25,8 @@ D-EDGE is organizing an internal Hackathon on the subject of Gamification. As th
 [![Meetup](https://img.shields.io/badge/Meetup-FF1154?style=for-the-badge&logo=meetup&logoColor=white)][mt]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][yt]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][tw]
+[![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)][gd]  
 or write us by ✉️ [email](mailto:softwarecraft@d-edge.com) or through an 💬 [issue](https://github.com/d-edge/joinus/issues/) if you want to!
 
 [wj]: https://www.welcometothejungle.com/en/companies/d-edge
@@ -33,3 +34,4 @@ or write us by ✉️ [email](mailto:softwarecraft@d-edge.com) or through an �
 [yt]: https://www.youtube.com/channel/UC2wG3a8rYx5re8RdB-2FQ9A
 [lk]: https://www.linkedin.com/company/d-edge-hospitality-solutions/
 [mt]: https://www.meetup.com/D-EDGE-tech 
+[gd]: https://www.glassdoor.com/Reviews/D-EDGE-Hospitality-Solutions-Reviews-E2617802.htm
