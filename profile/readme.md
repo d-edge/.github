@@ -10,12 +10,12 @@ Have you ever booked a hotel online? Then you've probably used D-EDGE without kn
 Amongst the 480 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
 
 Contact us if you have anything to share or some questions!
-<!--
-## 👋 Come to our next meetup (an open discussion in French)
 
-D-EDGE is organizing an internal Hackathon on the subject of Gamification. As this is far from our day-to-day activity and the pitfalls are many, we decided to open the discussion at a Meetup. Join [@torendil](https://github.com/torendil), [@aumeunier](https://github.com/aumeunier), [@el-sime](https://github.com/el-sime) and [aloisdg](https://github.com/aloisdg/) for an open table on this sensitive topic!
+## 👋 Come to our next meetup
 
-[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/282324510/)-->
+#NoMemAlloc - write dotnet that make no allocation, as we could do in C or Rust (online meetup by [@thinkbeforecoding](https://github.com/thinkbeforecoding), February 1 2022 7:00 PM to 8:00 PM CEST).
+
+[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/283217337)
 
 ## 📫 Contact Us on Social Media
 
