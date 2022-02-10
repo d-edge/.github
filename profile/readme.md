@@ -11,11 +11,16 @@ Amongst the 480 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts
 
 Contact us if you have anything to share or some questions!
 
+<!--
 ## 👋 Come to our next meetup
 
 #NoMemAlloc - write dotnet that make no allocation, as we could do in C or Rust (online meetup by [@thinkbeforecoding](https://github.com/thinkbeforecoding), February 1 2022 7:00 PM to 8:00 PM CEST).
+-->
+## 📢 Check out our meetups
 
-[Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/283217337)
+📺 [Recordings of our past talks](https://github.com/d-edge/JoinUs/blob/main/MEETUP.md)
+
+👋 [Join us on Meetup](https://www.meetup.com/D-EDGE-tech/events/283217337)
 
 ## 📫 Contact Us on Social Media
 
