@@ -10,12 +10,12 @@ Have you ever booked a hotel online? Then you've probably used D-EDGE without kn
 Amongst the 480 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
 
 Contact us if you have anything to share or some questions!
-
+<!--
 ## 👋 Come to our next meetup
 
 [Observability vs traditional monitoring: the reasons why you need OpenTelemetry](https://www.meetup.com/D-EDGE-tech/events/284093967/) (online meetup by [@saboco](https://github.com/saboco), Tuesday, March 8, 2022
 7:00 PM to 8:00 PM CEST).
-
+-->
 ## 📢 Check out our meetups
 
 📺 [Recordings of our past talks](https://github.com/d-edge/JoinUs/blob/main/MEETUP.md)
