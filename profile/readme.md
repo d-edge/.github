@@ -19,7 +19,7 @@ In the next tech a break meetup by D-EDGE, Suchitra and Rindra, Tech Engineers a
 
 Everyone is welcome to attend this meetup
 
-[Gender inequality - where do we stand & how to overcome it?](https://www.meetup.com/D-EDGE-tech/events/285795986/?chapterContext=true&regToRsvp=true&isFromReg=true) (online meetup by [suchitaDev](https://github.com/suchitraDev) and [@rfabb](https://github.com/rfabb), Tuesday, May 24, 2022 7:00 PM to 8:00 PM CEST).
+[Gender inequality - where do we stand & how to overcome it?](https://www.meetup.com/D-EDGE-tech/events/285795986/?chapterContext=true&regToRsvp=true&isFromReg=true) (online meetup by [suchitaDev](https://github.com/suchitraDev) and [rfabb](https://github.com/rfabb), Tuesday, May 24, 2022 7:00 PM to 8:00 PM CEST).
 
 ## 📢 Check out our meetups
 
