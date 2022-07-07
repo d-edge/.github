@@ -10,7 +10,7 @@ Have you ever booked a hotel online? Then you've probably used D-EDGE without kn
 Amongst the 480 D-EDGERS, the R&D team is made up of a hundred or so enthusiasts who are reinventing hotel booking for both the traveller and the hotelier. As a subsidiary of the Accor group, D-EDGE simplifies the life of independent hotels and hotel chains alike.
 
 Contact us if you have anything to share or some questions!
-
+<!--
 ## 👋 Come to our next meetup
 
 Did you know that originally women dominated the Tech field? Did you know why women are often paid less than men for doing the same work?
@@ -20,7 +20,7 @@ In the next tech a break meetup by D-EDGE, Suchitra and Rindra, Tech Engineers a
 Everyone is welcome to attend this meetup
 
 [Gender inequality - where do we stand & how to overcome it?](https://www.meetup.com/D-EDGE-tech/events/285795986/?chapterContext=true&regToRsvp=true&isFromReg=true) (online meetup by [suchitaDev](https://github.com/suchitraDev) and [rfabb](https://github.com/rfabb), Tuesday, May 24, 2022 7:00 PM to 8:00 PM CEST).
-
+-->
 ## 📢 Check out our meetups
 
 📺 [Recordings of our past talks](https://github.com/d-edge/JoinUs/blob/main/MEETUP.md)
